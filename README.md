@@ -14,4 +14,10 @@ En la siguiente imagen se observan los resultados.
 ***
 ### 2. Conexión de ROS con PYTHON:
 
+Se siguío el procedimiento descrito en la guía [1] para sincronizar ROS con PYTHON, posteriormente se uso el código encontrado en [3] para la lectura de eventos y por último se programaron los movimientos establecidos a las teclas a, s, d, w, r y espacio.
+
+El codigo construido para este ejercicio se encuentra adjunto como myTeleopKey.py.
+
+Adicionalmente se muestra el funcionamiento en el siguiente video.
+
 
